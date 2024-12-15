@@ -6,4 +6,6 @@ Wersja 1.1 – rozbudowana wersja z wykorzystaniem frameworka Avalonia, oferują
 
 Film prezentujący działanie projektu jest dostępny na YouTube: 
 
+https://www.youtube.com/watch?v=UbvYT8vDKG0
+
 działanie:
