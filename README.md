@@ -14,7 +14,8 @@ TU JEST WIDEO OMAWIAJĄCE KOD tak bo tak , tak sredno ale jest jakby pan czegoś
 
 https://www.youtube.com/watch?v=06Cb_50LlAo
 
-NA PEWNO NIE RIC-ROL
+NA PEWNO NIE RIC-ROL:
+
 https://www.youtube.com/watch?v=V1bFr2SWP1I
 
 działanie:
