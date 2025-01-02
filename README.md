@@ -6,7 +6,11 @@ Wersja 1.1 – rozbudowana wersja z wykorzystaniem frameworka Avalonia, oferują
 
 Film prezentujący działanie projektu jest dostępny na YouTube: 
 
+TU JEST WIDEO PREZENTUJĄCE DZIAŁANIE KODU 
 https://www.youtube.com/watch?v=UbvYT8vDKG0
+
+TU JEST WIDEO OMAWIAJĄCE KOD tak bo tak , tak sredno ale jest jakby pan czegoś na szybko nie rozumiał;
+https://www.youtube.com/watch?v=06Cb_50LlAo
 
 działanie:
 ![obraz](https://github.com/user-attachments/assets/b6ca04c9-8c5b-405a-b4b1-e95050a88131)
