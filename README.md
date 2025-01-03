@@ -59,5 +59,4 @@ Podobieństwa .NET i Qt:
             Visual Studio (z wbudowanymi edytorami GUI).
             Blend for Visual Studio (do bardziej zaawansowanego projektowania w WPF).
 .....
-.NET z odpowiednim frameworkiem GUI (np. Avalonia) jest bardzo podobny do Qt w zakresie możliwości. Różnica tkwi głównie w językach programowania oraz podejściu do zarządzania pamięcią. Jeśli masz doświadczenie z C#, .NET będzie naturalnym wyborem. Jeśli znasz C++ i potrzebujesz bardziej kontrolowanego środowiska, Qt może być lepsze.
-            
+.NET z odpowiednim frameworkiem GUI (np. Avalonia) jest bardzo podobny do Qt w zakresie możliwości. Różnica tkwi głównie w językach programowania oraz podejściu do zarządzania pamięcią.   
